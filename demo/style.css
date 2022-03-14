@@ -1,0 +1,12 @@
+body {background-color: rgba(0, 0, 0, 0.171)}
+
+
+
+#A{
+ animation-name: anit;
+ animation-duration: 7s; 
+}
+@keyframes anit{
+ from {color:yellow}
+ to{color:white} 
+}
